@@ -1,1 +1,2 @@
-import pandas an pd
+import pandas as pd
+import numoy as np
